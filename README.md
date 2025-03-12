@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TranDuyNgocBao
-- 👀 I’m interested in working some projects for students
-- 🌱 I’m currently learning at FPT University
-- 💞️ I’m looking to collaborate on some topics about computer vision 
+- 👀 This is where I keep all my personal projects as well as topics that interest me.
+- 🌱 I graduated with a bachelor's degree from FPT University in Ho Chi Minh City, currently looking for a suitable job.
+- 💞️ Have skills and passion for researching and developing new technology.
 - 📫 How to reach me baongoctranduy278201@gmail.com
 
 <!---
